@@ -2,3 +2,6 @@ https://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=circle&r
 
 Metadatos o Base de datos de Zalando (capturo imagenes de ropa)
 https://github.com/zalandoresearch/fashion-mnist
+
+Metadatos o Base de datos de CelebA-Spoof con imágenes detalladas en iluminación, posición, objetos, etc
+https://github.com/ZhangYuanhan-AI/CelebA-Spoof
