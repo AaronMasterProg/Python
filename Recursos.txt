@@ -1,1 +1,4 @@
 https://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=30&networkShape=4,4,4,2&seed=0.09780&showTestData=false&discretize=false&percTrainData=70&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
+Metadatos o Base de datos de Zalando (capturo imagenes de ropa)
+https://github.com/zalandoresearch/fashion-mnist
